@@ -1,0 +1,10 @@
+CoolGamer,900
+Jake,900
+Grant,800
+BestGamer,800
+Jake,800
+TheBestGamer,700
+ASDF,700
+Grant,600
+Grant,500
+Grant,400
